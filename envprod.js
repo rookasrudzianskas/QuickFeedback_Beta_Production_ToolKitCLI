@@ -8,4 +8,4 @@
 // FIREBASE_CLIENT_EMAIL=firebase-adminsdk-6v9ek@rookas-quickfeedback-prod.iam.gserviceaccount.com
 //
 
-// doing some crazy things here
+// doing some crazy things here 🔥
